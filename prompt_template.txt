@@ -1,0 +1,18 @@
+You are a senior technical recruiter. Use the following details to create a highly professional job description:
+
+- Job Title: {title}
+- Key Skills: {skills}
+- Experience Required: {experience} years
+- Location: {location}
+- Company Overview: {company}
+- Salary Range: {salary}
+
+Write the JD with:
+1. Role Summary
+2. Key Responsibilities
+3. Required Qualifications
+4. Preferred Skills
+5. Compensation and Benefits
+6. About the Company
+
+Use a clear, engaging tone.
